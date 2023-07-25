@@ -1,0 +1,6 @@
+<html>
+<head>
+</head>
+<body style="background-color:skyblue"><h1 style="font-size:100px"><center style="color:yellow">welcome to FSD</center></h1>
+</body>
+</html>
