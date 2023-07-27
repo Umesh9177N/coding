@@ -1,0 +1,10 @@
+cinvert double digit into single digit.
+===========================================
+nums=[9,81,72]
+s=""
+for i in nums:
+    s=s+str(i)
+res=[]
+for i in s:
+  res.append(int(i))
+print(res)
